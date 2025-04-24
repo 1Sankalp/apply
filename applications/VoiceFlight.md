@@ -1,46 +1,39 @@
-# 📝 Name of your Project
+# 📝 VoiceFlight
 
 ## 🌟 Project Overview
 
 Please provide the following:
 
-- If the name of your project is not descriptive, a tagline (one sentence summary)
-- A brief description of your project
-- An indication of how your project relates to / integrates into Polkadot
-- An indication of why your team is interested in creating this project
-- (Optional but **huge bonus points**): [1-min video pitch](https://www.ycombinator.com/video/)
-
+- Voice Flight - A voice-controlled flying game
+- Voice Flight is a browser game where players control a flying plane using just their voice. No login, no setup, just open and play.
+- Players control the plane using the loudness and duration of their voice. The louder the voice, the higher the plane flies.
+- I'm trying to grow the Polkadot ecosystem by making a quick-to-play game that anyone can play on their phone or desktop, and try to score as much as they can to earn rewards if they score high.
+- I believe this has a good viral potential -- looking at the current traction.
 ### 🔍 Project Details
 
 We expect applicants to have a solid idea about the project's expected final state. Therefore, please submit (where relevant):
 
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- Any PoC/MVP or other relevant prior work or research on the topic
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- What your project is *not* or will *not* provide or implement
-  - This is a place for you to manage expectations and clarify any limitations
+- NextJS and Tailwind CSS
+- I launched the game and saw exciting early traction. I launched it on April 19th, and in just 4 days, 450+ people played it, and the site got over 650+ visits -- all organically. I posted about it on Reddit and a few Discord channels - Reddit alone brought in ~1000+ views. The game reached players from 50+ countries, across both desktop and mobile.
+- https://voiceflight.vercel.app/
 
 ### 🧩 Ecosystem Fit
 
 Help us locate your project in the Polkadot landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Polkadot ecosystem?
-  - If so, how is your project different?
-  - If not, why might such a project not exist yet?
+- Where and how does your project fit into the ecosystem? - in games
+- Who is your target audience? - every web2 and web3
+- What need(s) does your project meet? - I make it fun for people to join in and play a game and try to earn if they score high
+- Are there any other projects similar to yours in the Polkadot ecosystem? - no
 
 > **Note**: We prioritize projects building on Plaza/Polkadot Hub, games, and DeFi applications, though all types of projects will be considered.
 
 ## 👥 Team
 
-- **Team Name:** Name of your team. If you apply as a legal entity, please use its name.
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email
-- **Website:** Your website, GitHub org, blog, or similar
+- **Team Name:** VoiceFlight
+- **Contact Name:** Sankalp Shrivastava
+- **Contact Email:** 1sankalpshrivastava@gmail.com
+- **Website:** https://voiceflight.vercel.app/
 
 ### Team members
 
@@ -53,25 +46,27 @@ Please list the legal name of all grant beneficiaries. Solo developers (1-person
 
 ### Team Code Repos
 
-- https://github.com/{your_organisation}/{project_1}
-- https://github.com/{your_organisation}/{project_2}
+- https://github.com/1Sankalp/VoiceFlight
 
 Please also provide the GitHub accounts of all team members:
 
-- https://github.com/{team_member_1}
-- https://github.com/{team_member_2}
+- https://github.com/1sankalp
 
 ### Team's experience
 
 Please describe the team's relevant experience, including any previous blockchain projects or contributions to the ecosystem.
 
+-prev built https://skyhi.live/ - the pokemon go of nfts
+
 ## 📊 Development Status
 
-If you've already started implementing your project, please provide a link and a description of the code. Otherwise, please provide some documentation on the research and other work you have conducted before applying.
+The game is live and just 4 days, 450+ people played it, and the site got over 650+ visits -- all organically. I posted about it on Reddit and a few Discord channels - Reddit alone brought in ~1000+ views. The game reached players from 50+ countries, across both desktop and mobile. 
 
 ## 📅 Development Roadmap
 
 This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, please describe *the functionality we should expect in as much detail as possible*, plus how we can verify and test that functionality.
+
+-to make it web3 in polkadot, with wallet integration, and staking token to play, if the player reaches a good score they make good returns
 
 **Important notes:**
 - Each milestone is capped at **$5,000 USD**
@@ -103,17 +98,17 @@ Please provide a breakdown of your budget by milestone:
 
 | Milestone | Deliverables | Cost (USD) | Estimated Completion |
 | --- | --- | --- | --- |
-| 1 | Features X, Y | $5,000 | 1.5 months |
-| 2 | Feature Z | $5,000 | 1.5 months |
+| 1 | Players 2000 | $5,000 | 1.5 months |
+| 2 | Players 5000 | $5,000 | 1.5 months |
 | **Total** | | **$10,000** | **3 months** |
 
 ## 🔮 Future Plans
 
 Please include:
 
-- How you intend to continue development after the Fast-Grant
-- Any plans for seeking additional funding (other grants, VC funding, etc.)
-- Your vision for the project's growth and impact in the Polkadot ecosystem
+- How you intend to continue development after the Fast-Grant - not decided yet
+- Any plans for seeking additional funding (other grants, VC funding, etc.) - not yet
+- Your vision for the project's growth and impact in the Polkadot ecosystem - a popular fun to play quick game to earn money
 
 ## ℹ️ Additional Information
 
