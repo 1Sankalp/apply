@@ -8,7 +8,7 @@ Please provide the following:
 - Voice Flight is a browser game where players control a flying plane using just their voice. No login, no setup, just open and play.
 - Players control the plane using the loudness and duration of their voice. The louder the voice, the higher the plane flies.
 - I'm trying to grow the Polkadot ecosystem by making a quick-to-play game that anyone can play on their phone or desktop, and try to score as much as they can to earn rewards if they score high.
-- I believe this has a good viral potential -- looking at the current traction.
+- I believe this has a very good viral potential -- looking at the current traction.
 ### 🔍 Project Details
 
 We expect applicants to have a solid idea about the project's expected final state. Therefore, please submit (where relevant):
